@@ -1,0 +1,2 @@
+C:\Users\travis\Desktop\Api\Sodoku\Sodoku\bin\Debug\Sodoku.exe.config
+C:\Users\travis\Desktop\Sodoku\Sodoku\Sodoku\bin\Debug\Sodoku.exe.config
